@@ -22,11 +22,13 @@
 				<Item Name="Set to Default Argument--cluster.ctl" Type="VI" URL="../Set to Default Argument--cluster.ctl"/>
 				<Item Name="Generate Signal Argument--cluster.ctl" Type="VI" URL="../Generate Signal Argument--cluster.ctl"/>
 				<Item Name="Generate Signal (Reply Payload)--cluster.ctl" Type="VI" URL="../Generate Signal (Reply Payload)--cluster.ctl"/>
+				<Item Name="Set Class specific Argument--cluster.ctl" Type="VI" URL="../Set Class specific Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Get list name Argument--cluster.ctl" Type="VI" URL="../Get list name Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -37,6 +39,7 @@
 			<Item Name="Set Signal Type.vi" Type="VI" URL="../Set Signal Type.vi"/>
 			<Item Name="Set to Default.vi" Type="VI" URL="../Set to Default.vi"/>
 			<Item Name="Generate Signal.vi" Type="VI" URL="../Generate Signal.vi"/>
+			<Item Name="Set Class specific.vi" Type="VI" URL="../Set Class specific.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -53,6 +56,7 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Get list name.vi" Type="VI" URL="../Get list name.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
